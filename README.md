@@ -1,6 +1,6 @@
 # Basic-Banking-System
 
-This project is a part of the Graduate Rotational Internship Program (GRIP) by The Sparks Foundation. The Sparks Foundation is a non-profit organization that inspires students to innovate and build skills to solve real-life problems. The GRIP program is a 3-month internship program that provides hands-on experience in web development and design.
+This project is a part of the Graduate Rotational Internship Program (GRIP) by The Sparks Foundation. The Sparks Foundation is a non-profit organization that inspires students to innovate and build skills to solve real-life problems. The GRIP program is a 1-month internship program that provides hands-on experience in web development and design.
 
 The Sparks Foundation Internship Project presents the Basic Banking System, a web application allowing virtual money transfers between multiple users. This user-friendly platform allows you to view a list of all the users, select and view the details of a specific user, initiate a money transfer, choose the recipient, and view the transfer history.
 
