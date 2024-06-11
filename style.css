@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Calibri;
+}
+
+.logo {
+  position: relative;
+  font-size: 60px;
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+body {
+  background: url(image1.png);
+  background-size: 100%;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  align-items: center;
+  z-index: 100;
+  padding: 15px;
+  background: rgb(179, 100, 30);
+  display: flex;
+  justify-content: space-between;
+}
+
+.macbar a {
+  font-size: 30px;
+  color: yellow;
+  font-weight: 500;
+  margin-left: 4rem;
+  transition: 0.4s;
+}
+
+.macbar a:hover,
+.macbar a.active {
+  color: yellow;
+}
+
+#home-icon {
+  font-size: 4rem;
+  color: yellow;
+  cursor: pointer;
+  display: none;
+}
+
+.verify {
+  margin-bottom: 75px;
+  margin-top: 65px;
+  font-weight: 600;
+}
+
+.content {
+  text-align: left;
+  margin-left: 2%;
+  font-size: 20px;
+}
+
+.content h1 {
+  color: rgb(246, 178, 5);
+}
+
+.content p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+  font-size: 22px;
+  margin-top: 2.8%;
+  margin-bottom: 0%;
+  margin-left: 1%;
+}
+
+.btn {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 27px;
+  border: 2px solid yellow;
+  padding: 15px 50px;
+  border-radius: 45px;
+  margin-top: 20px;
+  text-align: center;
+  background-color: #d7b384;
+}
+
+.social-links {
+  position: absolute;
+  right: 50%;
+  bottom: 10px;
+  margin-top: 40px;
+}
+
+.social-links a {
+  text-decoration: underline;
+  color: rgb(245, 161, 14);
+  padding-left: 30px;
+  font-size: 20px;
+}
